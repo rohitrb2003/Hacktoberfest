@@ -1,2 +1,2 @@
 # Hacktoberfest
-Contribution stsrts from 1 - oct. - 2022.
+Contribution starts from 1 - oct. - 2022.
